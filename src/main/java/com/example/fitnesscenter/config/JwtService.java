@@ -13,7 +13,7 @@ import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.function.Function;
-// генерация и доставание токена
+
 
 @Service
 public class JwtService {

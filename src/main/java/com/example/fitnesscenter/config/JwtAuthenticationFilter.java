@@ -16,7 +16,7 @@ import org.springframework.web.filter.OncePerRequestFilter;
 
 import java.io.IOException;
 
-// фильтры, чтоюы понять какой пользватель к нам обращается
+
 
 @Component
 @RequiredArgsConstructor

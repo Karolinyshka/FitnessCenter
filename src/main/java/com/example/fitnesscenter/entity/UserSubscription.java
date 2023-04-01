@@ -5,12 +5,6 @@
 //import lombok.*;
 //
 //import java.time.LocalDateTime;
-//
-///**
-// * @author Neevels
-// * @version 1.0
-// * @date 3/12/2023 12:33 PM
-// */
 //@Entity
 //@Table(name = "user-subscription")
 //@Getter
